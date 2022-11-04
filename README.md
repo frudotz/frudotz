@@ -1,7 +1,7 @@
 ## Hi there, this is frudotz speaking 👋
 
 
-By wanting to dominate every sector, I always improve myself and try to gain experience in every field.
+Wanting to dominate every sector, always improve myself and try to gain experience in every field.
 
 
 - 🔭 Currently working on front-end development, advertisement, designing, SEO and then network technologies.
