@@ -11,3 +11,6 @@ Wanting to dominate every sector, always improve myself and try to gain experien
 - 💬 Ask me about advertising, development and design.
 - 📫 Let's connect – [LinkedIn](https://www.linkedin.com/in/ardakrbck/) | [Personal Website](https://frudotz.com/)
 - ⚡ Internet's superpower! [GIBIRNet Website](https://gibir.net.tr/)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/460867393141342218)](https://discord.com/users/460867393141342218)
+              
