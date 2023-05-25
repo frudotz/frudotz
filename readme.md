@@ -12,4 +12,4 @@ Wanting to dominate every sector, always improve myself and try to gain experien
 - 📫 Let's connect – [LinkedIn](https://www.linkedin.com/in/ardakrbck/) | [Personal Website](https://frudotz.com/)
 - ⚡ Internet's superpower! [GIBIRNet Website](https://gibir.net.tr/)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/460867393141342218)](https://discord.com/users/460867393141342218) ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vdv1jk1yo28wkogogrsdp6krk&count=3)
+[![Discord Presence](https://lanyard.cnrad.dev/api/460867393141342218)](https://discord.com/users/460867393141342218) ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vdv1jk1yo28wkogogrsdp6krk&unique=1&count=3)
