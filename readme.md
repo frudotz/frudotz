@@ -33,12 +33,12 @@
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=frudotz&theme=dark&count_private=true&show_icons=true&include_all_commits=true" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=frudotz&theme=dark&count_private=true&show_icons=true&include_all_commits=true" align="left" />  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frudotz&theme=dark&layout=compact&count_private=true&langs_count=8" />  
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frudotz&theme=tokyonight)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frudotz&theme=dark&layout=compact&count_private=true&langs_count=8"/>
-
 
 <details>
 <summary>🎧 Live Presence</summary>
