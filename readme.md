@@ -4,14 +4,12 @@
 
 **Breaking the limits with `< code />`, design & network magic.**
 
-### 🔗 Visit my [website](https://frudotz.com)
-
 ### 🌐 Links
 
 <a href="https://frudotz.com"><img height=50 src="https://img.icons8.com/fluency/48/domain.png" /></a>
-<a href="https://www.linkedin.com/in/ardakrbck/"><img height=50 src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" /></a>
-<a href="https://discord.com/users/460867393141342218"><img height=50 src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" /></a>
-<a href="https://github.com/frudotz"><img height=50 src="https://www.vectorlogo.zone/logos/github/github-tile.svg" /></a>
+<a href="https://www.linkedin.com/in/frudotz/"><img height=50 src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" /></a>
+<a href="https://discord.com/users/460867393141342218"><img width=50 src="https://www.svgrepo.com/show/353655/discord-icon.svg" /></a>
+<a href="https://www.behance.net/frudotz"><img height=50 src="https://cdn-icons-png.flaticon.com/512/145/145799.png"/></a>
 
 
 ### 🛠️ Tech Stack
