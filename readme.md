@@ -1,15 +1,49 @@
-## Hi there, this is frudotz speaking 👋
+<img src="https://c.tenor.com/F5kRRnVS8v0AAAAC/tenor.gif" align="right" width="50%" />
+
+### Hey there, I'm frudotz 👋
+
+**Breaking the limits with `< code />`, design & network magic.**
+
+### 🔗 Visit my [website](https://frudotz.com)
+
+### 🌐 Links
+
+<a href="https://frudotz.com"><img height=50 src="https://img.icons8.com/fluency/48/domain.png" /></a>
+<a href="https://www.linkedin.com/in/ardakrbck/"><img height=50 src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" /></a>
+<a href="https://discord.com/users/460867393141342218"><img height=50 src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" /></a>
+<a href="https://github.com/frudotz"><img height=50 src="https://www.vectorlogo.zone/logos/github/github-tile.svg" /></a>
 
 
-Wanting to dominate every sector, always improve myself and try to gain experience in every field.
+### 🛠️ Tech Stack
+
+<a href="#"><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" /></a>
+<a href="#"><img height=50 src="https://raw.githubusercontent.com/openwrt/branding/master/logo/openwrt_logo_white.svg" /></a>
+<a href="#"><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+<a href="#"><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
 
 
-- 🔭 Currently working on front-end development, advertisement, designing, SEO and then network technologies.
-- 🌱 Currently learning development everything, advanced advertisement and than more network technologies.
-- 👯 Looking to collaborate on mobile app development and then artificial intelligence.
-- 🤔 Looking for help with things that interest to me.
-- 💬 Ask me about advertising, development and design.
-- 📫 Let's connect – [LinkedIn](https://www.linkedin.com/in/ardakrbck/) | [Personal Website](https://frudotz.com/)
-- ⚡ Internet's superpower! [GIBIRNet Website](https://gibir.net.tr/)
+### 📘 Repos & Docs
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/460867393141342218)](https://discord.com/users/460867393141342218) ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vdv1jk1yo28wkogogrsdp6krk&unique=1&count=3)
+- [Xiaomi AX3200 OpenWRT Setup Guide](https://github.com/frudotz/openwrt-xiaomi-ax3200)
+- [Xiaomi AX3200 Debrick Guide](https://github.com/frudotz/debrick-xiaomi-ax3200)
+- [Zyxel NBG7815 OpenWRT Setup Guide](https://github.com/frudotz/openwrt-zyxel-nbg7815)
+- [Xiaomi 4A Gigabit OpenWRT Setup Guide](https://github.com/frudotz/openwrt-xiaomi-4a-gigabit)
+
+
+
+### 📊 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=frudotz&theme=dark&count_private=true&show_icons=true&include_all_commits=true" align="left"/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frudotz&theme=tokyonight)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frudotz&theme=dark&layout=compact&count_private=true&langs_count=8"/>
+
+
+<details>
+<summary>🎧 Live Presence</summary>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/460867393141342218)](https://discord.com/users/460867393141342218)
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=vdv1jk1yo28wkogogrsdp6krk&unique=1&count=3)
+
+</details>
