@@ -2,7 +2,7 @@
 
 ### Hey there, I'm frudotz 👋
 
-**Breaking the limits with `< code />`, design & network magic.**
+**Breaking the limits with code, design & network magic.**
 
 ### 🌐 Links
 
