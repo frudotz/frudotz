@@ -1,6 +1,6 @@
 <img src="https://c.tenor.com/F5kRRnVS8v0AAAAC/tenor.gif" align="right" width="50%" />
 
-### Hey there, I'm frudotz 👋
+### Hi there, I'm frudotz 👋
 
 **Breaking the limits with code, design & network magic.**
 
