@@ -22,10 +22,13 @@
 
 ### 📘 Repos & Docs
 
+- [OpenWRT SQM Quide](https://github.com/frudotz/openwrt-sqm)
 - [Xiaomi AX3200 OpenWRT Setup Guide](https://github.com/frudotz/openwrt-xiaomi-ax3200)
 - [Xiaomi AX3200 Debrick Guide](https://github.com/frudotz/debrick-xiaomi-ax3200)
 - [Zyxel NBG7815 OpenWRT Setup Guide](https://github.com/frudotz/openwrt-zyxel-nbg7815)
 - [Xiaomi 4A Gigabit OpenWRT Setup Guide](https://github.com/frudotz/openwrt-xiaomi-4a-gigabit)
+- [OpenWRT Cloudflare Tunnel Setup Guide](https://github.com/frudotz/openwrt-cloudflare-tunnel)
+- [OpenWRT DSL Bridge Wizard](https://github.com/frudotz/openwrt-dsl-bridge-wizard)
 
 
 
