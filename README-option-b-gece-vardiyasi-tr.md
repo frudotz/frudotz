@@ -1,10 +1,13 @@
 <!--
-  SEÇENEK B: "Gece Vardiyası" — cyber-gece ve müzik. Türkçe.
+  SEÇENEK B: "Gece Vardiyası" — cyber-gece ve müzik. TÜRKÇE (ana sürüm).
+  İngilizce yedek: README-option-b-gece-vardiyasi-en.md (aynı olgular, İngilizce görseller *-en.svg).
   Tüm görseller ./assets/b-gece altındaki özgün SVG'lerdir; dış sunucu, font ya da script yok.
   Görseller kendi koyu panelleriyle çizildi, böylece açık temada da okunur.
   Hero'daki imleç ve dalga animasyonu 5 saniyeden kısa sürer ve "hareketi azalt" tercihinde hiç oynamaz.
   [[CONFIRM: ...]] işaretleri çözülmeden readme.md yerine konmamalı.
 -->
+
+<p align="right"><sub><b>Türkçe</b> · <a href="README-option-b-gece-vardiyasi-en.md">English</a></sub></p>
 
 <a href="https://frudotz.com"><img alt="Gece Vardiyası başlığı: terminal penceresinde 'whoami: frudotz, İstanbul', 'gündüz: reklam ve grafik tasarım', 'gece: router, tünel, HTTP başlıkları'; sağda büyük GECE VARDİYASI yazısı, neon dalga formu ve ızgara zemin." src="./assets/b-gece/hero.svg" width="100%"></a>
 
@@ -40,7 +43,7 @@
 <table>
   <tr>
     <td><b>gündüz</b></td>
-    <td>GIBIRNet'te reklam uzmanı (2021'den beri, uzaktan) · İnternet Özgürlüğü Girişimi'nde gönüllü grafik ve sosyal medya (2025'ten beri) · Nraphy'de gönüllü grafik tasarımcı (2021–2024)</td>
+    <td>Reklam, topluluk ve marka iletişimi deneyimi (2021'den beri, uzaktan) [[CONFIRM: kurum adı ve unvan herkese açık yazılabilir mi?]] · İnternet Özgürlüğü Girişimi'nde gönüllü grafik ve sosyal medya (2025'ten beri) · Nraphy'de gönüllü grafik tasarımcı (2021–2024)</td>
   </tr>
   <tr>
     <td><b>gece</b></td>

@@ -1,8 +1,11 @@
 <!--
-  OPTION A: "Studio" — art-directed portfolio. English.
+  OPTION A: "Studio" — art-directed portfolio. ENGLISH BACKUP.
+  Turkish-first version: README-option-a-studio-tr.md (same facts, Turkish artwork in *-tr.svg).
   All artwork is original SVG hosted in ./assets/a-studio (no third-party hosts).
   Resolve every [[CONFIRM: ...]] marker before this replaces readme.md.
 -->
+
+<p align="right"><sub><a href="README-option-a-studio-tr.md">Türkçe</a> · <b>English</b></sub></p>
 
 <a href="https://frudotz.com">
   <picture>
@@ -46,7 +49,7 @@
 
 | Design & advertising | Security & networks | Music |
 | :-- | :-- | :-- |
-| Advertising at GIBIRNet since 2021; volunteer design for Nraphy and İnternet Özgürlüğü Girişimi. | Information Security Technology at İstinye University; HTTP, tunnel and router tooling. | Built the site for the label NOCTERA. [[CONFIRM: your role at NOCTERA]] · [[CONFIRM: do you make or perform music yourself?]] |
+| Advertising, community and brand communications experience since 2021 [[CONFIRM: may the organisation name and your title be published?]]; volunteer design for Nraphy and İnternet Özgürlüğü Girişimi. | Information Security Technology at İstinye University; HTTP, tunnel and router tooling. | Public site and source code for the label NOCTERA (noctera.stream). [[CONFIRM: your role at NOCTERA]] · [[CONFIRM: do you make or perform music yourself?]] |
 
 **Toolbox** `Rust` `Python` `TypeScript` `Shell` `Linux` `OpenWRT` `Docker` `Cloudflare` · [[CONFIRM: design tools, e.g. Photoshop / Illustrator / Figma]]
 
@@ -55,7 +58,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/a-studio/timeline-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/a-studio/timeline-light.svg">
-  <img alt="Timeline: advertising specialist at GIBIRNet since February 2021; volunteer graphic designer at Nraphy, June 2021 to April 2024; volunteer graphic and social media at İnternet Özgürlüğü Girişimi since August 2025; Information Security Technology at İstinye University from 2025, expected June 2027." src="./assets/a-studio/timeline-light.svg" width="100%">
+  <img alt="Timeline: advertising, community and brand communications experience since February 2021; volunteer graphic designer at Nraphy, June 2021 to April 2024; volunteer graphic and social media at İnternet Özgürlüğü Girişimi since August 2025; Information Security Technology at İstinye University from 2025, expected June 2027." src="./assets/a-studio/timeline-light.svg" width="100%">
 </picture>
 
 <details>

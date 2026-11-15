@@ -1,10 +1,13 @@
 <!--
-  OPTION C: "Product dashboard" — modern bilingual (English first, full Turkish below).
+  OPTION C: "Product dashboard" — ENGLISH-FIRST BILINGUAL BACKUP (English first, full Turkish below).
+  Turkish-first version: README-option-c-dashboard-tr.md (Turkish artwork in *-tr.svg).
   Original SVGs in ./assets/c-dashboard with light and dark variants via <picture>.
   Live widgets (checked 2026-11-15, all HTTP 200): shields.io "website" status pills and one skillicons.dev strip.
   github-readme-stats is deliberately not used (public instance returned 503 on 2026-11-15).
   Resolve every [[CONFIRM: ...]] marker before this replaces readme.md.
 -->
+
+<p align="right"><sub><a href="README-option-c-dashboard-tr.md">Türkçe</a> · <b>English + Türkçe</b></sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/c-dashboard/hero-dark.svg">
@@ -26,7 +29,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/c-dashboard/bento-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/c-dashboard/bento-light.svg">
-  <img alt="At a glance, six tiles: Role, advertising specialist at GIBIRNet since February 2021; Study, Information Security Technology at İstinye University, expected 2027; Build, security tools; Network, OpenWRT guides, infrastructure lookup and IPv6 test; Training, 22 records including TryHackMe paths, Cisco NetAcad, BTK Akademi and TEKNOFEST CTF; Design, volunteer visual identity work." src="./assets/c-dashboard/bento-light.svg" width="100%">
+  <img alt="At a glance, six tiles: Role, advertising, community and brand communications experience since 2021; Study, Information Security Technology at İstinye University, expected 2027; Build, security tools; Network, OpenWRT guides, infrastructure lookup and IPv6 test; Training, 22 records including TryHackMe paths, Cisco NetAcad, BTK Akademi and TEKNOFEST CTF; Design, volunteer visual identity work." src="./assets/c-dashboard/bento-light.svg" width="100%">
 </picture>
 
 ### Shipped
@@ -51,7 +54,7 @@
 | [Nginx QUIC lab](https://github.com/frudotz/ISU-SecOps-Nginx-RCE) | Penetration-testing course lab, BGT006 (Python) |
 | [Altyapı Sorgulama](https://altyapi.frudotz.com) · [CS2 trust](https://cs2.frudotz.com) · [IPv6 test](https://v6.frudotz.com) | Web tools ([source](https://github.com/frudotz/net-infra-query), [source](https://github.com/frudotz/steam-cs2-analytics), [source](https://github.com/frudotz/ipv6-test)) |
 | [OpenWRT guides](https://github.com/frudotz?tab=repositories&q=openwrt) | Router setup, debrick, SQM, tunnel, DSL bridge (in Turkish) |
-| [noctera.stream](https://noctera.stream) | Site for the label NOCTERA. [[CONFIRM: your role at NOCTERA]] · [[CONFIRM: music involvement]] |
+| [noctera.stream](https://noctera.stream) | Public site for the label NOCTERA ([source](https://github.com/frudotz/noctera-stream)). [[CONFIRM: your role at NOCTERA]] · [[CONFIRM: music involvement]] |
 
 ### Stack
 
@@ -61,7 +64,7 @@
   <img alt="Icons: Rust, Python, TypeScript, Bash, Linux, Docker, Cloudflare, Nginx" src="https://skillicons.dev/icons?i=rust,py,ts,bash,linux,docker,cloudflare,nginx&theme=light">
 </picture>
 
-<sub>Also OpenWRT. Design tools: [[CONFIRM: design tools]]. [[CONFIRM: availability wording]]</sub>
+<sub>Also OpenWRT. Design tools: [[CONFIRM: design tools]]. [[CONFIRM: availability wording]] · [[CONFIRM: may the organisation name and your title be published?]]</sub>
 
 <details>
 <summary><samp>türkçe</samp></summary>
@@ -70,11 +73,12 @@
 
 İstanbul'da bilişim güvenliği okuyan bir tasarımcı ve reklam uzmanıyım. Ağ ve web için küçük, denetlenebilir araçlar ve Türkçe OpenWRT rehberleri yazıyorum.
 
-- **rol**: GIBIRNet'te reklam uzmanı (Şubat 2021'den beri, uzaktan)
+- **rol**: 2021'den beri reklam, topluluk ve marka iletişimi deneyimi (uzaktan) · [[CONFIRM: kurum adı ve unvan herkese açık yazılabilir mi?]]
 - **eğitim**: İstinye Üniversitesi, Bilişim Güvenliği Teknolojisi önlisans (beklenen Haziran 2027)
 - **güvenlik**: [SecOps Engine](https://github.com/frudotz/ISU-SecOps-Engine) · [CF Tunnel Auditor](https://github.com/frudotz/ISU-SecOps-CFTunnelAuditor) · [Nginx QUIC lab](https://github.com/frudotz/ISU-SecOps-Nginx-RCE) (ders laboratuvarı)
 - **ağ ve web**: [OpenWRT rehberleri](https://github.com/frudotz?tab=repositories&q=openwrt) · [Altyapı Sorgulama](https://altyapi.frudotz.com) · [IPv6 test](https://v6.frudotz.com) · [CS2 güven analizi](https://cs2.frudotz.com)
 - **tasarım**: Nraphy ve İnternet Özgürlüğü Girişimi için gönüllü görsel kimlik çalışmaları · [Behance](https://www.behance.net/frudotz)
-- **müzik**: bağımsız label [NOCTERA](https://noctera.stream) için web sitesi · [[CONFIRM: rol]]
+- **müzik**: bağımsız label [NOCTERA](https://noctera.stream) için web sitesi · [[CONFIRM: rol]] · [[CONFIRM: müzikle ilişkin]]
+- **diğer**: tasarım araçları [[CONFIRM: tasarım araçları]] · [[CONFIRM: uygunluk cümlesi]]
 
 </details>
