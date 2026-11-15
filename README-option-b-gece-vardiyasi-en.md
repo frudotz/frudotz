@@ -12,7 +12,7 @@
 <a href="https://frudotz.com"><img alt="Night Shift header: a terminal window reading 'whoami: frudotz, Istanbul', 'day: advertising and graphic design', 'night: routers, tunnels, HTTP headers'; on the right the large title NIGHT SHIFT, a neon waveform and a grid floor." src="./assets/b-gece/hero-en.svg" width="100%"></a>
 
 <p align="center">
-  <b>frudotz</b> · [[CONFIRM: display name, e.g. H. Arda Karabacak]] · Istanbul<br>
+  <b>frudotz</b> · [[CONFIRM: display name]] · Istanbul<br>
   <a href="https://frudotz.com">frudotz.com</a> ·
   <a href="https://www.linkedin.com/in/frudotz/">LinkedIn</a> ·
   <a href="https://www.behance.net/frudotz">Behance</a> ·

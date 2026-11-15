@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="116" viewBox="0 0 400 116" role="img" aria-labelledby="t d">
+<title id="t">SecOps Engine: GÜVENLİK · DERS PROJESİ</title>
+<desc id="d">HTTP güvenlik başlığı analizi. Rust · CLI + web.</desc>
+<defs><clipPath id="k"><rect width="400" height="116" rx="14"/></clipPath></defs>
+<g clip-path="url(#k)">
+<rect width="400" height="116" fill="#0F1621"/>
+<rect width="6" height="116" fill="#FF7A5C"/>
+<path d="M308 0h92v116h-30z" fill="#FF7A5C" opacity="0.07"/>
+<g transform="translate(20 20)"><rect width="44" height="44" rx="11" fill="#FF7A5C" opacity="0.14"/><path d="M22 9l11 4v8c0 7-5 12-11 14c-6-2-11-7-11-14v-8z" fill="none" stroke="#FF7A5C" stroke-width="2.4" stroke-linejoin="round"/><path d="M17 22l4 4l7-8" fill="none" stroke="#FF7A5C" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="78" y="30" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="700" fill="#FF7A5C" letter-spacing="1.2">GÜVENLİK · DERS PROJESİ</text>
+<text x="78" y="55" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#F0F6FC">SecOps Engine</text>
+<text x="78" y="77" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#D0D7DE">HTTP güvenlik başlığı analizi</text>
+<text x="78" y="101" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="400" fill="#9DA7B3">Rust · CLI + web</text>
+<text x="384" y="101" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FF7A5C" text-anchor="end">repoyu aç →</text>
+</g>
+<rect x="0.75" y="0.75" width="398.5" height="114.5" rx="13.5" fill="none" stroke="#FF7A5C" stroke-opacity="0.55" stroke-width="1.5"/>
+</svg>

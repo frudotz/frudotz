@@ -12,7 +12,7 @@
 <a href="https://frudotz.com"><img alt="Gece Vardiyası başlığı: terminal penceresinde 'whoami: frudotz, İstanbul', 'gündüz: reklam ve grafik tasarım', 'gece: router, tünel, HTTP başlıkları'; sağda büyük GECE VARDİYASI yazısı, neon dalga formu ve ızgara zemin." src="./assets/b-gece/hero.svg" width="100%"></a>
 
 <p align="center">
-  <b>frudotz</b> · [[CONFIRM: görünen ad, ör. H. Arda Karabacak]] · İstanbul<br>
+  <b>frudotz</b> · [[CONFIRM: görünen ad]] · İstanbul<br>
   <a href="https://frudotz.com">frudotz.com</a> ·
   <a href="https://www.linkedin.com/in/frudotz/">LinkedIn</a> ·
   <a href="https://www.behance.net/frudotz">Behance</a> ·
