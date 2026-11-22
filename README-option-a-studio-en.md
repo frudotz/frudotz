@@ -4,6 +4,7 @@
   A short profile landing, not a CV: identity summary → tool summary → one poster card per project.
   The project section is based only on public GitHub repositories; every card links straight to its repo.
   All artwork is original SVG hosted in ./assets/a-studio (no third-party hosts, fonts or scripts).
+  Hero: poster (hero-{light,dark}.svg). Large frudotz wordmark, subline and six expertise labels (Design, Software, Cybersecurity, Networking, Music, + ?); the orange circle, blue block and yellow quarter circle are part of the composition.
   Resolve every [[CONFIRM: ...]] marker before this replaces readme.md.
 -->
 
@@ -13,7 +14,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/a-studio/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/a-studio/hero-light.svg">
-    <img alt="frudotz studio header: large wordmark frudotz, the line 'Graphic design, security tooling and OpenWRT guides in Turkish', and labels for brand visuals, security tools, OpenWRT guides and label web, beside an abstract poster composition." src="./assets/a-studio/hero-light.svg" width="100%">
+    <img alt="frudotz wordmark, with the subline 'Design, software, cybersecurity, networking, music and a few things I haven't gotten into yet.' and labels Design, Software, Cybersecurity, Networking, Music and + ?." src="./assets/a-studio/hero-light.svg" width="100%">
   </picture>
 </a>
 
@@ -34,25 +35,17 @@
 
 <sub>Every card opens its GitHub repository.</sub>
 
-<table>
-  <tr>
-    <td width="50%"><a href="https://github.com/frudotz/ISU-SecOps-Engine"><img alt="SecOps Engine: HTTP security header analyzer with a CLI and a web GUI. Rust, Docker. Open the GitHub repository." src="./assets/a-studio/card-secops-engine.svg" width="100%"></a></td>
-    <td width="50%"><a href="https://github.com/frudotz/ISU-SecOps-CFTunnelAuditor"><img alt="Tunnel Auditor: checks a host's cloudflared setup for misconfiguration and exposure. Shell. Open the GitHub repository." src="./assets/a-studio/card-tunnel-auditor.svg" width="100%"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/frudotz/ISU-SecOps-Nginx-RCE"><img alt="Nginx QUIC Lab: penetration-testing course lab (BGT006) with a Dockerised target, exploitation steps and the patch. Python, Docker. Open the GitHub repository." src="./assets/a-studio/card-nginx-quic-lab.svg" width="100%"></a></td>
-    <td width="50%"><a href="https://github.com/frudotz/net-infra-query"><img alt="Altyapı Sorgulama: static JavaScript site for Turkish broadband infrastructure lookups. Open the GitHub repository (net-infra-query)." src="./assets/a-studio/card-altyapi.svg" width="100%"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/frudotz/steam-cs2-analytics"><img alt="CS2 Trust Analysis: estimates how trustworthy a Steam account looks from several signals. JavaScript on Cloudflare Workers. Open the GitHub repository (steam-cs2-analytics)." src="./assets/a-studio/card-cs2-trust.svg" width="100%"></a></td>
-    <td width="50%"><a href="https://github.com/frudotz/noctera-stream"><img alt="noctera.stream: prerendered static site for the independent label NOCTERA. TypeScript, Vite, React. Open the GitHub repository (noctera-stream)." src="./assets/a-studio/card-noctera.svg" width="100%"></a></td>
-  </tr>
-</table>
+<a href="https://github.com/frudotz/anafor-mcp"><img alt="Anafor MCP: orchestration MCP server for AI models; isolated git worktree workspaces and acceptance gates. Open the GitHub repository." src="./assets/a-studio/card-anafor-mcp.svg" width="100%"></a>
 
 <a href="https://github.com/frudotz?tab=repositories&q=openwrt"><img alt="OpenWRT field guides, written in Turkish: setup, debrick, SQM, Cloudflare Tunnel, DSL bridge and Wake-on-LAN notes for Xiaomi 4A Gigabit, Xiaomi AX3200 and Zyxel NBG7815 routers. List the OpenWRT repositories on GitHub." src="./assets/a-studio/card-openwrt-guides.svg" width="100%"></a>
 
 <sub>OpenWRT guide repositories: <a href="https://github.com/frudotz/openwrt-xiaomi-4a-gigabit">4A Gigabit</a> · <a href="https://github.com/frudotz/openwrt-xiaomi-ax3200">AX3200</a> · <a href="https://github.com/frudotz/debrick-xiaomi-ax3200">AX3200 debrick</a> · <a href="https://github.com/frudotz/openwrt-zyxel-nbg7815">NBG7815</a> · <a href="https://github.com/frudotz/openwrt-sqm">SQM</a> · <a href="https://github.com/frudotz/openwrt-cloudflare-tunnel">Cloudflare Tunnel</a> · <a href="https://github.com/frudotz/openwrt-dsl-bridge-wizard">DSL bridge</a> · <a href="https://github.com/frudotz/openwrt-wol-automation">Wake-on-LAN</a></sub>
 
+<table>
+  <tr><td width="50%"><a href="https://github.com/frudotz/net-infra-query"><img alt="Altyapı Sorgulama: Turkish broadband infrastructure lookup site." src="./assets/a-studio/card-altyapi.svg" width="100%"></a></td><td width="50%"><a href="https://github.com/frudotz/steam-cs2-analytics"><img alt="CS2 Trust Analysis: estimates how trustworthy a Steam account looks from several signals." src="./assets/a-studio/card-cs2-trust.svg" width="100%"></a></td></tr>
+  <tr><td width="50%"><a href="https://github.com/frudotz/ISU-SecOps-Nginx-RCE"><img alt="Nginx QUIC Lab: penetration-testing course lab." src="./assets/a-studio/card-nginx-quic-lab.svg" width="100%"></a></td><td width="50%"><a href="https://github.com/frudotz/ISU-SecOps-CFTunnelAuditor"><img alt="Tunnel Auditor: checks a cloudflared setup for misconfiguration and exposure." src="./assets/a-studio/card-tunnel-auditor.svg" width="100%"></a></td></tr>
+  <tr><td width="50%"><a href="https://github.com/frudotz/ISU-SecOps-Engine"><img alt="SecOps Engine: HTTP security header analyzer." src="./assets/a-studio/card-secops-engine.svg" width="100%"></a></td><td width="50%"><a href="https://github.com/frudotz/noctera-stream"><img alt="noctera.stream: prerendered site for independent label NOCTERA." src="./assets/a-studio/card-noctera.svg" width="100%"></a></td></tr>
+</table>
 ## Contribution activity
 
 <picture>
@@ -62,3 +55,4 @@
 </picture>
 
 <sub>Source: the public contribution calendar on the <a href="https://github.com/frudotz">GitHub profile</a>, captured 16 November 2026. The image is local and original; it does not update automatically.</sub>
+

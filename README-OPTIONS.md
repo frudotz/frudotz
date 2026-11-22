@@ -4,7 +4,7 @@ Yalnızca önizleme taslaklarıdır; canlı profil README'si (`readme.md`) deği
 
 ## Önerilen / güncel yön: A · Stüdyo (sadeleştirilmiş)
 
-<a href="README-option-a-studio-tr.md"><img alt="Seçenek A önizlemesi: frudotz yazısı, 'Grafik tasarım, güvenlik araçları ve Türkçe OpenWRT rehberleri' satırı ve soyut turuncu, mavi, sarı kompozisyonlu afiş tarzı stüdyo başlığı." src="./assets/a-studio/hero-light-tr.svg" width="100%"></a>
+<a href="README-option-a-studio-tr.md"><img alt="Seçenek A önizlemesi: büyük frudotz yazısı, 'Tasarım, yazılım, siber güvenlik, ağ, müzik ve henüz bulaşmadığım birkaç şey.' alt satırı ve uzmanlık etiketleri olan afiş tarzı stüdyo başlığı." src="./assets/a-studio/hero-light-tr.svg" width="100%"></a>
 
 <a href="README-option-a-studio-tr.md"><img alt="Seçenek A proje kartı örneği: SecOps Engine, HTTP güvenlik başlığı analiz aracı." src="./assets/a-studio/card-secops-engine-tr.svg" width="260"></a> <a href="README-option-a-studio-tr.md"><img alt="Seçenek A proje kartı örneği: Altyapı Sorgulama, Türkiye geniş bant altyapı sorgusu." src="./assets/a-studio/card-altyapi-tr.svg" width="260"></a> <a href="README-option-a-studio-tr.md"><img alt="Seçenek A proje kartı örneği: noctera.stream, NOCTERA label'ı için statik site." src="./assets/a-studio/card-noctera-tr.svg" width="260"></a>
 
