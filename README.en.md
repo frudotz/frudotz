@@ -40,10 +40,16 @@
 ## Contribution activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/a-studio/contrib-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/a-studio/contrib-light.svg">
-  <img alt="Public GitHub contribution activity heatmap, 16 November 2025 to 15 November 2026 (snapshot taken 16 November 2026): 1,091 public contributions in the last 12 months, with at least one contribution on 77 days. Busiest periods were February, April, September and October 2026; no contributions in August 2026. Not a measure of skill or quality." src="./assets/a-studio/contrib-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/a-studio/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/a-studio/stats-light.svg">
+  <img alt="GitHub stats card: stars earned, commits this year, pull requests, issues, repositories contributed to, total contributions, current and longest streak, and top languages." src="./assets/a-studio/stats-light.svg" width="100%">
 </picture>
 
-<sub>Source: the public contribution calendar on the <a href="https://github.com/frudotz">GitHub profile</a>, captured 16 November 2026. The image is local and original; it does not update automatically.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/a-studio/contrib-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/a-studio/contrib-light.svg">
+  <img alt="Public GitHub contribution activity heatmap for the last 12 months, regenerated every night by a GitHub Action. Not a measure of skill or quality." src="./assets/a-studio/contrib-light.svg" width="100%">
+</picture>
+
+<sub>Source: the public data on the <a href="https://github.com/frudotz">GitHub profile</a>. The images are local and original; a GitHub Action regenerates them every night.</sub>
 
