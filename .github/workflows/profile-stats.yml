@@ -1,0 +1,46 @@
+name: profile-stats
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Regenerate stats cards and heatmaps
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_LOGIN: frudotz
+        run: node scripts/profile-stats.js
+
+      - name: Commit and push when SVGs changed
+        run: |
+          if [ -z "$(git status --porcelain -- assets/a-studio)" ]; then
+            echo "SVG dosyalarında değişiklik yok; commit atlanıyor."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/a-studio
+          git commit -m "chore: profil istatistik kartlarını güncelle [skip ci]"
+          git pull --rebase origin main
+          git push origin HEAD:main

@@ -40,10 +40,16 @@
 ## Katkı etkinliği
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/a-studio/contrib-dark-tr.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/a-studio/contrib-light-tr.svg">
-  <img alt="Herkese açık GitHub katkı etkinliği ısı haritası, 16 Kasım 2025 – 15 Kasım 2026 (16 Kasım 2026 tarihli anlık görüntü): son 12 ayda 1.091 herkese açık katkı, 77 günde en az bir katkı. En yoğun dönemler Şubat, Nisan, Eylül ve Ekim 2026; Ağustos 2026'da katkı yok. Beceri ya da kalite ölçüsü değildir." src="./assets/a-studio/contrib-light-tr.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/a-studio/stats-dark-tr.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/a-studio/stats-light-tr.svg">
+  <img alt="GitHub istatistik kartı: kazanılan yıldız, bu yıl commit, pull request, issue ve katkı verilen repo sayıları; toplam katkı, şu anki ve en uzun katkı serisi; en çok kullanılan diller." src="./assets/a-studio/stats-light-tr.svg" width="100%">
 </picture>
 
-<sub>Kaynak: <a href="https://github.com/frudotz">GitHub profilindeki</a> herkese açık katkı takvimi, 16 Kasım 2026'da alındı. Görsel yerel ve özgündür; otomatik güncellenmez.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/a-studio/contrib-dark-tr.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/a-studio/contrib-light-tr.svg">
+  <img alt="Herkese açık GitHub katkı etkinliği ısı haritası, son 12 ay. Her gece GitHub Action ile güncellenir. Beceri ya da kalite ölçüsü değildir." src="./assets/a-studio/contrib-light-tr.svg" width="100%">
+</picture>
+
+<sub>Kaynak: <a href="https://github.com/frudotz">GitHub profilindeki</a> herkese açık veriler. Görseller yerel ve özgündür; her gece bir GitHub Action ile yeniden üretilir.</sub>
 
